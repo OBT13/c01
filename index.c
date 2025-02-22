@@ -12,7 +12,7 @@ int main() {
 =======
   printf("Hello World!");
   printf("enter");
-  printf("fwrfref");
+  printf("ne branch");
 git  return 0;
 >>>>>>> new-branch-name
 }
