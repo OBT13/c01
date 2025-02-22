@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("ex1 0");
+  printf("ex1 ");
 git   return 0;
 }
